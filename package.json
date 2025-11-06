@@ -16,7 +16,7 @@
     "vercel-build": "npm run build"
   },
   "dependencies": {
-    "@react-three/drei": "^10.7.6",
+    "@react-three/drei": "^9.122.0",
     "@react-three/fiber": "^8.17.3",
     "@supabase/supabase-js": "^2.79.0",
     "@types/papaparse": "^5.5.0",
