@@ -1,0 +1,7 @@
+[
+  { "name": "手太阴肺经", "type": "十二正经", "pathway": "起于中焦，下络大肠，回过胃上口，循喉咙，上肺系，出腋下...", "main_functions": "主一身之气，宣发肃降，通调水道", "associated_organs": "肺、大肠" },
+  { "name": "手阳明大肠经", "type": "十二正经", "pathway": "起于食指外侧端，上臂外侧，上肩，入缺盆...", "main_functions": "主津液传导，清利头面，通腑泄热", "associated_organs": "大肠、肺" },
+  { "name": "足太阴脾经", "type": "十二正经", "pathway": "起于足大趾内侧端，沿下肢内侧，上腹入脾，连胃...", "main_functions": "主运化、统血、生化气血", "associated_organs": "脾、胃" },
+  { "name": "任脉", "type": "奇经八脉", "pathway": "起于胞中，向上循腹里，至喉咙，上颌，环唇...", "main_functions": "总任诸阴，经脉之海", "associated_organs": "子宫、肾" },
+  { "name": "督脉", "type": "奇经八脉", "pathway": "起于下腹部胞中，经会阴，沿脊上行，入风府，至巅顶...", "main_functions": "总督诸阳，阳脉之海", "associated_organs": "脑、脊髓" }
+]

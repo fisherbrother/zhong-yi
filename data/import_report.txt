@@ -1,0 +1,108 @@
+
+========== 中医药数据导入报告 ==========
+导入时间: 2025-11-06T08:27:21.186Z
+
+中药数据:
+- 总数: 126
+- 成功: 126
+- 失败: 0
+
+
+方剂数据:
+- 总数: 75
+- 成功: 0
+- 失败: 75
+- 错误详情:
+  * 四君子汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 四物汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 八珍汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 十全大补汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 补中益气汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 归脾汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 六味地黄丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 金匮肾气丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 桂枝汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 麻黄汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 银翘散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 桑菊饮: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 白虎汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 黄连解毒汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 导赤散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 龙胆泻肝汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 清胃散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 泻白散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 葛根黄芩黄连汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 芍药汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 白头翁汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 青蒿鳖甲汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 当归六黄汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 五苓散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 猪苓汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 防己黄芪汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 苓桂术甘汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 真武汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 实脾散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 萆薢分清饮: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 羌活胜湿汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 独活寄生汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 理中丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 小建中汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 四逆汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 阳和汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 大承气汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 温脾汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 麻子仁丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 小柴胡汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 逍遥散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 半夏泻心汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 二陈汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 清气化痰丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 贝母瓜蒌散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 苓甘五味姜辛汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 半夏厚朴汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 瓜蒌薤白白酒汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 枳实薤白桂枝汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 天台乌药散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 苏子降气汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 定喘汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 旋覆代赭汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 橘皮竹茹汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 桃核承气汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 血府逐瘀汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 补阳还五汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 温经汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 生化汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 桂枝茯苓丸: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 失笑散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 十灰散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 小蓟饮子: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 槐花散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 黄土汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 川芎茶调散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 大秦艽汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 小活络丹: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 牵正散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 玉真散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 消风散: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 羚角钩藤汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 镇肝熄风汤: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 天麻钩藤饮: there is no unique or exclusion constraint matching the ON CONFLICT specification
+  * 大定风珠: there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+配伍禁忌数据:
+- 总数: 4
+- 成功: 0
+- 失败: 4
+- 错误详情:
+  * undefined: Missing required field: name
+  * undefined: Missing required field: name
+  * undefined: Missing required field: name
+  * undefined: Missing required field: name
+
+总计:
+- 总记录数: 205
+- 成功导入: 126
+- 失败导入: 79
+
+========================================
+  

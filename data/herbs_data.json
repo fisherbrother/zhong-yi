@@ -1,0 +1,1262 @@
+[
+  {
+    "name": "人参",
+    "nature_flavor": "甘、微苦，微温",
+    "meridian_tropism": "脾、肺、心经",
+    "efficacy": "大补元气，复脉固脱，补脾益肺，生津养血，安神益智",
+    "usage_dosage": "煎服，3-9g；挽救虚脱可用15-30g。宜文火另煎分次兑服",
+    "contraindications": "不宜与藜芦同用。实证、热证而正气不虚者忌服",
+    "category": "补气药",
+    "property": "温性"
+  },
+  {
+    "name": "黄芪",
+    "nature_flavor": "甘，微温",
+    "meridian_tropism": "脾、肺经",
+    "efficacy": "补气升阳，固表止汗，利水消肿，生津养血，行滞通痹，托毒排脓",
+    "usage_dosage": "煎服，9-30g。蜜炙可增强其补中益气作用",
+    "contraindications": "表实邪盛，气滞湿阻，食积内停，阴虚阳亢，疮疡毒盛者不宜用",
+    "category": "补气药",
+    "property": "温性"
+  },
+  {
+    "name": "当归",
+    "nature_flavor": "甘、辛，温",
+    "meridian_tropism": "肝、心、脾经",
+    "efficacy": "补血活血，调经止痛，润肠通便",
+    "usage_dosage": "煎服，6-12g",
+    "contraindications": "湿盛中满、大便溏泄者忌服",
+    "category": "补血药",
+    "property": "温性"
+  },
+  {
+    "name": "熟地黄",
+    "nature_flavor": "甘，微温",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "补血滋阴，益精填髓",
+    "usage_dosage": "煎服，9-15g",
+    "contraindications": "气滞痰多、脘腹胀满、食少便溏者忌服",
+    "category": "补血药",
+    "property": "温性"
+  },
+  {
+    "name": "白芍",
+    "nature_flavor": "苦、酸，微寒",
+    "meridian_tropism": "肝、脾经",
+    "efficacy": "养血调经，敛阴止汗，柔肝止痛，平抑肝阳",
+    "usage_dosage": "煎服，6-15g",
+    "contraindications": "不宜与藜芦同用。阳衰虚寒之证不宜单独应用",
+    "category": "补血药",
+    "property": "寒性"
+  },
+  {
+    "name": "阿胶",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "肺、肝、肾经",
+    "efficacy": "补血滋阴，润燥，止血",
+    "usage_dosage": "3-9g，烊化兑服",
+    "contraindications": "脾胃虚弱者慎用",
+    "category": "补血药",
+    "property": "平性"
+  },
+  {
+    "name": "何首乌",
+    "nature_flavor": "苦、甘、涩，微温",
+    "meridian_tropism": "肝、心、肾经",
+    "efficacy": "制用：补肝肾，益精血，乌须发，强筋骨；生用：解毒，消痈，截疟，润肠通便",
+    "usage_dosage": "煎服，制何首乌6-12g；生何首乌3-6g",
+    "contraindications": "大便溏泄及有湿痰者不宜用",
+    "category": "补血药",
+    "property": "温性"
+  },
+  {
+    "name": "枸杞子",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "滋补肝肾，益精明目",
+    "usage_dosage": "煎服，6-12g",
+    "contraindications": "外邪实热，脾虚有湿及泄泻者忌服",
+    "category": "补阴药",
+    "property": "平性"
+  },
+  {
+    "name": "麦冬",
+    "nature_flavor": "甘、微苦，微寒",
+    "meridian_tropism": "心、肺、胃经",
+    "efficacy": "养阴生津，润肺清心",
+    "usage_dosage": "煎服，6-12g",
+    "contraindications": "脾胃虚寒泄泻，风寒咳嗽者不宜用",
+    "category": "补阴药",
+    "property": "寒性"
+  },
+  {
+    "name": "沙参",
+    "nature_flavor": "甘，微寒",
+    "meridian_tropism": "肺、胃经",
+    "efficacy": "养阴清肺，益胃生津",
+    "usage_dosage": "煎服，9-15g",
+    "contraindications": "不宜与藜芦同用。风寒咳嗽，脾胃虚寒者忌用",
+    "category": "补阴药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄精",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "脾、肺、肾经",
+    "efficacy": "补气养阴，健脾，润肺，益肾",
+    "usage_dosage": "煎服，9-15g",
+    "contraindications": "脾虚有湿、咳嗽痰多及中寒便溏者不宜用",
+    "category": "补阴药",
+    "property": "平性"
+  },
+  {
+    "name": "石斛",
+    "nature_flavor": "甘，微寒",
+    "meridian_tropism": "胃、肾经",
+    "efficacy": "益胃生津，滋阴清热",
+    "usage_dosage": "煎服，6-12g。鲜品15-30g",
+    "contraindications": "温热病早期阴未伤者、湿温病未化燥者、脾胃虚寒者均禁服",
+    "category": "补阴药",
+    "property": "寒性"
+  },
+  {
+    "name": "玉竹",
+    "nature_flavor": "甘，微寒",
+    "meridian_tropism": "肺、胃经",
+    "efficacy": "养阴润燥，生津止渴",
+    "usage_dosage": "煎服，6-12g",
+    "contraindications": "痰湿气滞者禁服，脾虚便溏者慎服",
+    "category": "补阴药",
+    "property": "寒性"
+  },
+  {
+    "name": "甘草",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "心、肺、脾、胃经",
+    "efficacy": "补脾益气，清热解毒，祛痰止咳，缓急止痛，调和诸药",
+    "usage_dosage": "煎服，2-10g。清热解毒宜生用，补中缓急宜炙用",
+    "contraindications": "不宜与海藻、京大戟、红大戟、甘遂、芫花同用。水肿者不宜用",
+    "category": "补气药",
+    "property": "平性"
+  },
+  {
+    "name": "党参",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "脾、肺经",
+    "efficacy": "健脾益肺，养血生津",
+    "usage_dosage": "煎服，9-30g",
+    "contraindications": "不宜与藜芦同用",
+    "category": "补气药",
+    "property": "平性"
+  },
+  {
+    "name": "白术",
+    "nature_flavor": "苦、甘，温",
+    "meridian_tropism": "脾、胃经",
+    "efficacy": "健脾益气，燥湿利水，止汗，安胎",
+    "usage_dosage": "煎服，6-12g。健脾止泻宜炒用，燥湿利水宜生用",
+    "contraindications": "阴虚内热或津液亏耗燥渴者慎用",
+    "category": "补气药",
+    "property": "温性"
+  },
+  {
+    "name": "山药",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "脾、肺、肾经",
+    "efficacy": "补脾养胃，生津益肺，补肾涩精",
+    "usage_dosage": "煎服，15-30g。麸炒可增强补脾止泻作用",
+    "contraindications": "湿盛中满或有积滞者不宜用",
+    "category": "补气药",
+    "property": "平性"
+  },
+  {
+    "name": "大枣",
+    "nature_flavor": "甘，温",
+    "meridian_tropism": "脾、胃、心经",
+    "efficacy": "补中益气，养血安神",
+    "usage_dosage": "煎服，6-15g",
+    "contraindications": "湿盛中满、食积、虫积、龋齿作痛及痰热咳嗽均忌服",
+    "category": "补气药",
+    "property": "温性"
+  },
+  {
+    "name": "鹿茸",
+    "nature_flavor": "甘、咸，温",
+    "meridian_tropism": "肾、肝经",
+    "efficacy": "壮肾阳，益精血，强筋骨，调冲任，托疮毒",
+    "usage_dosage": "1-2g，研末冲服",
+    "contraindications": "阴虚阳亢，血分有热，胃火盛或肺有痰热以及外感热病者均禁服",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "肉苁蓉",
+    "nature_flavor": "甘、咸，温",
+    "meridian_tropism": "肾、大肠经",
+    "efficacy": "补肾阳，益精血，润肠通便",
+    "usage_dosage": "煎服，6-10g",
+    "contraindications": "阴虚火旺及便溏泄泻者忌服。相火偏旺、胃弱便溏者忌用",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "锁阳",
+    "nature_flavor": "甘，温",
+    "meridian_tropism": "肝、肾、大肠经",
+    "efficacy": "补肾阳，益精血，润肠通便",
+    "usage_dosage": "煎服，5-10g",
+    "contraindications": "阴虚火旺，脾虚泄泻及实热便秘者均禁服",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "巴戟天",
+    "nature_flavor": "甘、辛，微温",
+    "meridian_tropism": "肾、肝经",
+    "efficacy": "补肾阳，强筋骨，祛风湿",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "阴虚火旺或有湿热者不宜服",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "淫羊藿",
+    "nature_flavor": "辛、甘，温",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "补肾阳，强筋骨，祛风湿",
+    "usage_dosage": "煎服，6-10g",
+    "contraindications": "阴虚火旺者不宜服",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "杜仲",
+    "nature_flavor": "甘，温",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "补肝肾，强筋骨，安胎",
+    "usage_dosage": "煎服，6-10g。炒用疗效较生用为佳",
+    "contraindications": "阴虚火旺者慎用",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "续断",
+    "nature_flavor": "苦、辛，微温",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "补肝肾，强筋骨，续折伤，止崩漏",
+    "usage_dosage": "煎服，9-15g",
+    "contraindications": "阴虚火旺者不宜用",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "补骨脂",
+    "nature_flavor": "辛、苦，温",
+    "meridian_tropism": "肾、脾经",
+    "efficacy": "补肾壮阳，固精缩尿，温脾止泻，纳气平喘",
+    "usage_dosage": "煎服，6-10g。外用适量",
+    "contraindications": "阴虚火旺及大便秘结者忌服",
+    "category": "补阳药",
+    "property": "温性"
+  },
+  {
+    "name": "菟丝子",
+    "nature_flavor": "辛、甘，平",
+    "meridian_tropism": "肝、肾、脾经",
+    "efficacy": "补益肝肾，固精缩尿，安胎，明目，止泻",
+    "usage_dosage": "煎服，6-12g。外用适量",
+    "contraindications": "阴虚火旺、大便燥结、小便短赤者不宜服用",
+    "category": "补阳药",
+    "property": "平性"
+  },
+  {
+    "name": "当归",
+    "nature_flavor": "甘、辛，温",
+    "meridian_tropism": "肝、心、脾经",
+    "efficacy": "补血活血，调经止痛，润肠通便",
+    "usage_dosage": "煎服，6-12g",
+    "contraindications": "湿盛中满、大便溏泄者忌服",
+    "category": "补血药",
+    "property": "温性"
+  },
+  {
+    "name": "川芎",
+    "nature_flavor": "辛，温",
+    "meridian_tropism": "肝、胆、心包经",
+    "efficacy": "活血行气，祛风止痛",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "阴虚火旺，多汗，热盛及无瘀之出血证和孕妇慎用",
+    "category": "活血药",
+    "property": "温性"
+  },
+  {
+    "name": "丹参",
+    "nature_flavor": "苦，微寒",
+    "meridian_tropism": "心、心包、肝经",
+    "efficacy": "活血祛瘀，通经止痛，清心除烦，凉血消痈",
+    "usage_dosage": "煎服，10-15g。活血化瘀宜酒炙用",
+    "contraindications": "不宜与藜芦同用。孕妇慎用",
+    "category": "活血药",
+    "property": "寒性"
+  },
+  {
+    "name": "红花",
+    "nature_flavor": "辛，温",
+    "meridian_tropism": "心、肝经",
+    "efficacy": "活血通经，散瘀止痛",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "孕妇慎用。有出血倾向者不宜多用",
+    "category": "活血药",
+    "property": "温性"
+  },
+  {
+    "name": "桃仁",
+    "nature_flavor": "苦、甘，平；有小毒",
+    "meridian_tropism": "心、肝、大肠经",
+    "efficacy": "活血祛瘀，润肠通便，止咳平喘",
+    "usage_dosage": "煎服，5-10g，宜捣碎入煎",
+    "contraindications": "孕妇及便溏者慎用。用量不宜过大",
+    "category": "活血药",
+    "property": "平性"
+  },
+  {
+    "name": "益母草",
+    "nature_flavor": "苦、辛，微寒",
+    "meridian_tropism": "肝、心包、膀胱经",
+    "efficacy": "活血调经，利尿消肿，清热解毒",
+    "usage_dosage": "煎服，9-15g；鲜品12-24g",
+    "contraindications": "阴虚血少者忌服。孕妇慎用",
+    "category": "活血药",
+    "property": "寒性"
+  },
+  {
+    "name": "牛膝",
+    "nature_flavor": "苦、甘、酸，平",
+    "meridian_tropism": "肝、肾经",
+    "efficacy": "逐瘀通经，补肝肾，强筋骨，利尿通淋，引血下行",
+    "usage_dosage": "煎服，5-12g。活血通经、利水通淋、引火下行宜生用；补肝肾、强筋骨宜酒炙用",
+    "contraindications": "孕妇慎用。肾虚精滑者慎用",
+    "category": "活血药",
+    "property": "平性"
+  },
+  {
+    "name": "半夏",
+    "nature_flavor": "辛，温；有毒",
+    "meridian_tropism": "脾、胃、肺经",
+    "efficacy": "燥湿化痰，降逆止呕，消痞散结",
+    "usage_dosage": "煎服，3-9g，一般宜制过用。炮制品中有姜半夏、法半夏等",
+    "contraindications": "不宜与川乌、制川乌、草乌、制草乌、附子同用。血证、阴虚燥咳、津伤口渴者忌服",
+    "category": "化痰药",
+    "property": "温性"
+  },
+  {
+    "name": "陈皮",
+    "nature_flavor": "苦、辛，温",
+    "meridian_tropism": "脾、肺经",
+    "efficacy": "理气健脾，燥湿化痰",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "阴虚燥咳及咯血、吐血者慎用",
+    "category": "理气药",
+    "property": "温性"
+  },
+  {
+    "name": "茯苓",
+    "nature_flavor": "甘、淡，平",
+    "meridian_tropism": "心、肺、脾、肾经",
+    "efficacy": "利水渗湿，健脾，宁心",
+    "usage_dosage": "煎服，10-15g",
+    "contraindications": "阴虚而无湿热、虚寒滑精、气虚下陷者慎服",
+    "category": "利水药",
+    "property": "平性"
+  },
+  {
+    "name": "泽泻",
+    "nature_flavor": "甘、淡，寒",
+    "meridian_tropism": "肾、膀胱经",
+    "efficacy": "利水渗湿，泄热，化浊降脂",
+    "usage_dosage": "煎服，6-10g",
+    "contraindications": "肾虚精滑无湿热者禁服",
+    "category": "利水药",
+    "property": "寒性"
+  },
+  {
+    "name": "车前子",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肝、肾、肺、小肠经",
+    "efficacy": "清热利尿通淋，渗湿止泻，明目，祛痰",
+    "usage_dosage": "煎服，9-15g，宜包煎",
+    "contraindications": "肾虚精滑者慎用",
+    "category": "利水药",
+    "property": "寒性"
+  },
+  {
+    "name": "茵陈",
+    "nature_flavor": "苦、辛，微寒",
+    "meridian_tropism": "脾、胃、肝、胆经",
+    "efficacy": "清利湿热，利胆退黄",
+    "usage_dosage": "煎服，6-15g。外用适量，煎汤熏洗",
+    "contraindications": "蓄血发黄者及血虚萎黄者慎用",
+    "category": "利湿退黄药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄连",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、脾、胃、肝、胆、大肠经",
+    "efficacy": "清热燥湿，泻火解毒",
+    "usage_dosage": "煎服，2-5g。外用适量",
+    "contraindications": "本品大苦大寒，过服久服易伤脾胃，脾胃虚寒者忌用。苦燥伤津，阴虚津伤者慎用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄芩",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肺、胆、脾、大肠、小肠经",
+    "efficacy": "清热燥湿，泻火解毒，止血，安胎",
+    "usage_dosage": "煎服，3-10g。清热多生用，安胎多炒用，清上焦热可酒炙用，止血可炒炭用",
+    "contraindications": "本品苦寒伤胃，脾胃虚寒者不宜使用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄柏",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肾、膀胱经",
+    "efficacy": "清热燥湿，泻火除蒸，解毒疗疮",
+    "usage_dosage": "煎服，3-12g。外用适量",
+    "contraindications": "本品苦寒，容易损伤胃气，故脾胃虚寒者忌用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "金银花",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肺、心、胃经",
+    "efficacy": "清热解毒，疏散风热",
+    "usage_dosage": "煎服，6-15g。外用适量",
+    "contraindications": "脾胃虚寒及气虚疮疡脓清者忌用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "连翘",
+    "nature_flavor": "苦，微寒",
+    "meridian_tropism": "肺、心、小肠经",
+    "efficacy": "清热解毒，消肿散结，疏散风热",
+    "usage_dosage": "煎服，6-15g。外用适量",
+    "contraindications": "脾胃虚寒及气虚脓清者不宜用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "板蓝根",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、胃经",
+    "efficacy": "清热解毒，凉血，利咽",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "体虚而无实火热毒者忌服，脾胃虚寒者慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "蒲公英",
+    "nature_flavor": "苦、甘，寒",
+    "meridian_tropism": "肝、胃经",
+    "efficacy": "清热解毒，消肿散结，利尿通淋",
+    "usage_dosage": "煎服，10-15g。外用适量",
+    "contraindications": "用量过大，可致缓泻",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "鱼腥草",
+    "nature_flavor": "辛，微寒",
+    "meridian_tropism": "肺经",
+    "efficacy": "清热解毒，消痈排脓，利尿通淋",
+    "usage_dosage": "煎服，15-25g。外用适量",
+    "contraindications": "虚寒证及阴性疮疡忌服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "生地黄",
+    "nature_flavor": "甘、苦，寒",
+    "meridian_tropism": "心、肝、肾经",
+    "efficacy": "清热凉血，养阴生津",
+    "usage_dosage": "煎服，10-15g。鲜品用量加倍，或以鲜品捣汁入药",
+    "contraindications": "脾虚湿滞，腹满便溏者不宜使用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "玄参",
+    "nature_flavor": "甘、苦、咸，微寒",
+    "meridian_tropism": "肺、胃、肾经",
+    "efficacy": "清热凉血，滋阴降火，解毒散结",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "不宜与藜芦同用。脾胃虚寒，食少便溏者不宜服用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "牡丹皮",
+    "nature_flavor": "苦、辛，微寒",
+    "meridian_tropism": "心、肝、肾经",
+    "efficacy": "清热凉血，活血化瘀",
+    "usage_dosage": "煎服，6-12g。清热凉血宜生用，活血化瘀宜酒炙用，止血宜炒炭用",
+    "contraindications": "血虚有寒、孕妇及月经过多者不宜用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "赤芍",
+    "nature_flavor": "苦，微寒",
+    "meridian_tropism": "肝经",
+    "efficacy": "清热凉血，散瘀止痛",
+    "usage_dosage": "煎服，6-12g。外用适量",
+    "contraindications": "不宜与藜芦同用。血寒经闭者不宜用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "青蒿",
+    "nature_flavor": "苦、辛，寒",
+    "meridian_tropism": "肝、胆经",
+    "efficacy": "清虚热，除骨蒸，解暑热，截疟，退黄",
+    "usage_dosage": "煎服，6-12g，后下。外用适量",
+    "contraindications": "脾胃虚弱，肠滑泄泻者忌服",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "地骨皮",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肺、肝、肾经",
+    "efficacy": "凉血除蒸，清肺降火",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "外感风寒发热及脾虚便溏者不宜用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "银柴胡",
+    "nature_flavor": "甘，微寒",
+    "meridian_tropism": "肝、胃经",
+    "efficacy": "清虚热，除疳热",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "外感风寒，血虚无热者忌用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "胡黄连",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肝、胃、大肠经",
+    "efficacy": "退虚热，除疳热，清湿热",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "脾胃虚寒者慎用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "麻黄",
+    "nature_flavor": "辛、微苦，温",
+    "meridian_tropism": "肺、膀胱经",
+    "efficacy": "发汗解表，宣肺平喘，利水消肿",
+    "usage_dosage": "煎服，2-10g。发汗解表宜生用，止咳平喘多炙用",
+    "contraindications": "表虚自汗、阴虚盗汗及肺肾虚喘者慎用",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "桂枝",
+    "nature_flavor": "辛、甘，温",
+    "meridian_tropism": "心、肺、膀胱经",
+    "efficacy": "发汗解肌，温通经脉，助阳化气，平冲降气",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "外感热病、阴虚火旺、血热妄行等证，均当忌用。孕妇及月经过多者慎用",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "紫苏叶",
+    "nature_flavor": "辛，温",
+    "meridian_tropism": "肺、脾经",
+    "efficacy": "解表散寒，行气和胃",
+    "usage_dosage": "煎服，5-10g。外用适量",
+    "contraindications": "温病及气弱者忌服",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "生姜",
+    "nature_flavor": "辛，微温",
+    "meridian_tropism": "肺、脾、胃经",
+    "efficacy": "解表散寒，温中止呕，化痰止咳，解鱼蟹毒",
+    "usage_dosage": "煎服，3-10g，或捣汁服。外用适量",
+    "contraindications": "阴虚内热及实热证禁服",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "荆芥",
+    "nature_flavor": "辛，微温",
+    "meridian_tropism": "肺、肝经",
+    "efficacy": "解表散风，透疹，消疮",
+    "usage_dosage": "煎服，5-10g。外用适量。止血宜炒炭用",
+    "contraindications": "表虚自汗、阴虚头痛忌服",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "防风",
+    "nature_flavor": "辛、甘，微温",
+    "meridian_tropism": "膀胱、肝、脾经",
+    "efficacy": "祛风解表，胜湿止痛，止痉",
+    "usage_dosage": "煎服，5-10g。外用适量",
+    "contraindications": "阴虚火旺、血虚发痉者慎用",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "羌活",
+    "nature_flavor": "辛、苦，温",
+    "meridian_tropism": "膀胱、肾经",
+    "efficacy": "解表散寒，祛风除湿，止痛",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "血虚痹痛、阴虚头痛者慎用",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "白芷",
+    "nature_flavor": "辛，温",
+    "meridian_tropism": "肺、胃、大肠经",
+    "efficacy": "解表散寒，祛风止痛，宣通鼻窍，燥湿止带，消肿排脓",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "阴虚血热者忌服",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "细辛",
+    "nature_flavor": "辛，温；有小毒",
+    "meridian_tropism": "心、肺、肾经",
+    "efficacy": "解表散寒，祛风止痛，通窍，温肺化饮",
+    "usage_dosage": "煎服，1-3g；散剂每次服0.5-1g。外用适量",
+    "contraindications": "不宜与藜芦同用。阴虚阳亢头痛，肺燥伤阴干咳者忌用。反藜芦",
+    "category": "发散风寒药",
+    "property": "温性"
+  },
+  {
+    "name": "薄荷",
+    "nature_flavor": "辛，凉",
+    "meridian_tropism": "肺、肝经",
+    "efficacy": "疏散风热，清利头目，利咽，透疹，疏肝行气",
+    "usage_dosage": "煎服，3-6g；后下。外用适量",
+    "contraindications": "体虚多汗者不宜用",
+    "category": "发散风热药",
+    "property": "凉性"
+  },
+  {
+    "name": "牛蒡子",
+    "nature_flavor": "辛、苦，寒",
+    "meridian_tropism": "肺、胃经",
+    "efficacy": "疏散风热，宣肺透疹，解毒利咽",
+    "usage_dosage": "煎服，6-12g。炒用可使其苦寒及滑肠之性略减",
+    "contraindications": "本品性寒，滑肠通便，气虚便溏者慎用",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "蝉蜕",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肺、肝经",
+    "efficacy": "疏散风热，利咽开音，透疹，明目退翳，解痉",
+    "usage_dosage": "煎服，3-6g。外用适量",
+    "contraindications": "孕妇慎用",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "桑叶",
+    "nature_flavor": "甘、苦，寒",
+    "meridian_tropism": "肺、肝经",
+    "efficacy": "疏散风热，清肺润燥，平抑肝阳，清肝明目",
+    "usage_dosage": "煎服，5-10g；或入丸散。外用煎水洗眼。蜜制能增强润肺止咳的作用",
+    "contraindications": "风寒感冒、口淡、咳嗽痰稀白者不宜服用",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "菊花",
+    "nature_flavor": "甘、苦，微寒",
+    "meridian_tropism": "肺、肝经",
+    "efficacy": "散风清热，平肝明目，清热解毒",
+    "usage_dosage": "煎服，5-10g。外用适量",
+    "contraindications": "气虚胃寒，食少泄泻之病，宜少用之",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "柴胡",
+    "nature_flavor": "辛、苦，微寒",
+    "meridian_tropism": "肝、胆、肺经",
+    "efficacy": "疏散退热，疏肝解郁，升举阳气",
+    "usage_dosage": "煎服，3-10g。和解退热宜生用，疏散肝郁宜醋炙，骨蒸劳热当用鳖血拌炒",
+    "contraindications": "肝阳上亢，肝风内动，阴虚火旺及气机上逆者忌用或慎用",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "升麻",
+    "nature_flavor": "辛、微甘，微寒",
+    "meridian_tropism": "肺、脾、胃、大肠经",
+    "efficacy": "发表透疹，清热解毒，升举阳气",
+    "usage_dosage": "煎服，3-10g。发表透疹、清热解毒宜生用，升阳举陷宜炙用",
+    "contraindications": "麻疹已透，阴虚火旺，以及阴虚阳亢者，均当忌用",
+    "category": "发散风热药",
+    "property": "寒性"
+  },
+  {
+    "name": "葛根",
+    "nature_flavor": "甘、辛，凉",
+    "meridian_tropism": "脾、胃、肺经",
+    "efficacy": "解肌退热，生津止渴，透疹，升阳止泻，通经活络，解酒毒",
+    "usage_dosage": "煎服，10-15g。解肌退热、透疹、生津宜生用，升阳止泻宜煨用",
+    "contraindications": "夏日表虚汗多尤忌",
+    "category": "发散风热药",
+    "property": "凉性"
+  },
+  {
+    "name": "石膏",
+    "nature_flavor": "甘、辛，大寒",
+    "meridian_tropism": "肺、胃经",
+    "efficacy": "清热泻火，除烦止渴",
+    "usage_dosage": "煎服，15-60g，宜打碎先煎。外用适量，研末撒敷患处",
+    "contraindications": "脾胃虚寒及阴虚内热者忌用",
+    "category": "清热泻火药",
+    "property": "寒性"
+  },
+  {
+    "name": "知母",
+    "nature_flavor": "苦、甘，寒",
+    "meridian_tropism": "肺、胃、肾经",
+    "efficacy": "清热泻火，滋阴润燥",
+    "usage_dosage": "煎服，6-12g。清热泻火宜生用，滋阴降火宜盐水炙用",
+    "contraindications": "本品性寒质润，能滑肠，故脾虚便溏者不宜用",
+    "category": "清热泻火药",
+    "property": "寒性"
+  },
+  {
+    "name": "栀子",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、肺、三焦经",
+    "efficacy": "泻火除烦，清热利湿，凉血解毒；外用消肿止痛",
+    "usage_dosage": "煎服，6-10g。外用适量，研末调敷。清热泻火宜生用，止血宜炒炭用",
+    "contraindications": "本品苦寒，不宜久服，脾胃虚寒者慎用",
+    "category": "清热泻火药",
+    "property": "寒性"
+  },
+  {
+    "name": "夏枯草",
+    "nature_flavor": "辛、苦，寒",
+    "meridian_tropism": "肝、胆经",
+    "efficacy": "清肝泻火，明目，散结消肿",
+    "usage_dosage": "煎服，9-15g。外用适量，煎水洗或捣敷",
+    "contraindications": "脾胃虚弱者慎用",
+    "category": "清热泻火药",
+    "property": "寒性"
+  },
+  {
+    "name": "决明子",
+    "nature_flavor": "甘、苦、咸，微寒",
+    "meridian_tropism": "肝、大肠经",
+    "efficacy": "清热明目，润肠通便",
+    "usage_dosage": "煎服，9-15g。外用适量，研末调敷。用于润肠通便，不宜久煎",
+    "contraindications": "脾胃虚寒及便溏者慎用",
+    "category": "清热泻火药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄芩",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肺、胆、脾、大肠、小肠经",
+    "efficacy": "清热燥湿，泻火解毒，止血，安胎",
+    "usage_dosage": "煎服，3-10g。清热多生用，安胎多炒用，清上焦热可酒炙用，止血宜炒炭用",
+    "contraindications": "本品苦寒伤胃，脾胃虚寒者不宜使用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄连",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、脾、胃、肝、胆、大肠经",
+    "efficacy": "清热燥湿，泻火解毒",
+    "usage_dosage": "煎服，2-5g。外用适量",
+    "contraindications": "本品大苦大寒，过服久服易伤脾胃，脾胃虚寒者忌用。苦燥伤津，阴虚津伤者慎用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "黄柏",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肾、膀胱经",
+    "efficacy": "清热燥湿，泻火除蒸，解毒疗疮",
+    "usage_dosage": "煎服，3-12g。外用适量",
+    "contraindications": "本品苦寒，容易损伤胃气，故脾胃虚寒者忌用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "龙胆",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肝、胆、膀胱经",
+    "efficacy": "清热燥湿，泻肝胆火",
+    "usage_dosage": "煎服，3-6g。外用适量",
+    "contraindications": "脾胃虚寒者不宜用，阴虚津伤者慎用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "苦参",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、肝、胃、大肠、膀胱经",
+    "efficacy": "清热燥湿，杀虫，利尿",
+    "usage_dosage": "煎服，4.5-9g。外用适量，煎汤洗患处",
+    "contraindications": "不宜与藜芦同用。脾胃虚寒者忌用，阴虚津伤者慎用",
+    "category": "清热燥湿药",
+    "property": "寒性"
+  },
+  {
+    "name": "金银花",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肺、心、胃经",
+    "efficacy": "清热解毒，疏散风热",
+    "usage_dosage": "煎服，6-15g。外用适量",
+    "contraindications": "脾胃虚寒及气虚疮疡脓清者忌用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "连翘",
+    "nature_flavor": "苦，微寒",
+    "meridian_tropism": "肺、心、小肠经",
+    "efficacy": "清热解毒，消肿散结，疏散风热",
+    "usage_dosage": "煎服，6-15g。外用适量",
+    "contraindications": "脾胃虚寒及气虚脓清者不宜用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "蒲公英",
+    "nature_flavor": "苦、甘，寒",
+    "meridian_tropism": "肝、胃经",
+    "efficacy": "清热解毒，消肿散结，利尿通淋",
+    "usage_dosage": "煎服，10-15g。外用适量",
+    "contraindications": "用量过大，可致缓泻",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "紫花地丁",
+    "nature_flavor": "苦、辛，寒",
+    "meridian_tropism": "心、肝经",
+    "efficacy": "清热解毒，凉血消肿",
+    "usage_dosage": "煎服，15-30g。外用适量，煎汤洗患处",
+    "contraindications": "体质虚寒者忌服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "野菊花",
+    "nature_flavor": "苦、辛，微寒",
+    "meridian_tropism": "肝、心经",
+    "efficacy": "清热解毒，泻火平肝",
+    "usage_dosage": "煎服，9-15g。外用适量，煎汤外洗或制膏外涂",
+    "contraindications": "脾胃虚寒者慎用，孕妇慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "穿心莲",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、肺、大肠、膀胱经",
+    "efficacy": "清热解毒，凉血，消肿",
+    "usage_dosage": "煎服，6-9g。外用适量",
+    "contraindications": "不宜多服久服，脾胃虚寒者不宜用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "大青叶",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、胃经",
+    "efficacy": "清热解毒，凉血消斑",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "脾胃虚寒者忌用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "板蓝根",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、胃经",
+    "efficacy": "清热解毒，凉血，利咽",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "体虚而无实火热毒者忌服，脾胃虚寒者慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "青黛",
+    "nature_flavor": "咸，寒",
+    "meridian_tropism": "肝经",
+    "efficacy": "清热解毒，凉血消斑，泻火定惊",
+    "usage_dosage": "内服，1-3g，本品难溶于水，一般作散剂冲服，或入丸剂服用。外用适量",
+    "contraindications": "胃寒者慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "贯众",
+    "nature_flavor": "苦，微寒；有小毒",
+    "meridian_tropism": "肝、胃经",
+    "efficacy": "清热解毒，驱虫，止血",
+    "usage_dosage": "煎服，5-10g。外用适量",
+    "contraindications": "本品有小毒，用量不宜过大。服用本品时忌油腻。脾胃虚寒者慎用及孕妇慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "鱼腥草",
+    "nature_flavor": "辛，微寒",
+    "meridian_tropism": "肺经",
+    "efficacy": "清热解毒，消痈排脓，利尿通淋",
+    "usage_dosage": "煎服，15-25g。外用适量",
+    "contraindications": "虚寒证及阴性疮疡忌服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "射干",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肺经",
+    "efficacy": "清热解毒，消痰，利咽",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "病无实热，脾虚便溏，及孕妇禁服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "山豆根",
+    "nature_flavor": "苦，寒；有毒",
+    "meridian_tropism": "肺、胃经",
+    "efficacy": "清热解毒，消肿利咽",
+    "usage_dosage": "煎服，3-6g。外用适量",
+    "contraindications": "本品苦寒，有毒，过量服用易引起呕吐、腹泻、胸闷、心悸等副作用，故用量不宜过大。脾胃虚寒者慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "马勃",
+    "nature_flavor": "辛，平",
+    "meridian_tropism": "肺经",
+    "efficacy": "清肺利咽，止血",
+    "usage_dosage": "煎服，2-6g。外用适量，敷患处",
+    "contraindications": "风寒伏肺、咳嗽失音者忌服",
+    "category": "清热解毒药",
+    "property": "平性"
+  },
+  {
+    "name": "白头翁",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "胃、大肠经",
+    "efficacy": "清热解毒，凉血止痢",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "虚寒泻痢忌服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "马齿苋",
+    "nature_flavor": "酸，寒",
+    "meridian_tropism": "肝、大肠经",
+    "efficacy": "清热解毒，凉血止血，止痢",
+    "usage_dosage": "煎服，9-15g。外用适量，捣敷患处",
+    "contraindications": "脾胃虚寒，肠滑作泄者勿用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "鸦胆子",
+    "nature_flavor": "苦，寒；有小毒",
+    "meridian_tropism": "大肠、肝经",
+    "efficacy": "清热解毒，止痢，截疟；外用腐蚀赘疣",
+    "usage_dosage": "内服，0.5-2g，用龙眼肉包裹或装入胶囊吞服，亦可压去油制成丸剂、片剂服，不宜入煎剂。外用适量",
+    "contraindications": "本品有毒，不宜多用久服。孕妇及小儿慎用。胃肠出血及肝肾病患者，应忌用或慎用",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "秦皮",
+    "nature_flavor": "苦、涩，寒",
+    "meridian_tropism": "肝、胆、大肠经",
+    "efficacy": "清热燥湿，收涩止痢，止带，明目",
+    "usage_dosage": "煎服，6-12g。外用适量，煎洗患处",
+    "contraindications": "脾胃虚寒者忌服",
+    "category": "清热解毒药",
+    "property": "寒性"
+  },
+  {
+    "name": "生地黄",
+    "nature_flavor": "甘、苦，寒",
+    "meridian_tropism": "心、肝、肾经",
+    "efficacy": "清热凉血，养阴生津",
+    "usage_dosage": "煎服，10-15g。鲜品用量加倍，或以鲜品捣汁入药",
+    "contraindications": "脾虚湿滞，腹满便溏者不宜使用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "玄参",
+    "nature_flavor": "甘、苦、咸，微寒",
+    "meridian_tropism": "肺、胃、肾经",
+    "efficacy": "清热凉血，滋阴降火，解毒散结",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "不宜与藜芦同用。脾胃虚寒，食少便溏者不宜服用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "牡丹皮",
+    "nature_flavor": "苦、辛，微寒",
+    "meridian_tropism": "心、肝、肾经",
+    "efficacy": "清热凉血，活血化瘀",
+    "usage_dosage": "煎服，6-12g。清热凉血宜生用，活血化瘀宜酒炙用，止血宜炒炭用",
+    "contraindications": "血虚有寒、孕妇及月经过多者不宜用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "赤芍",
+    "nature_flavor": "苦，微寒",
+    "meridian_tropism": "肝经",
+    "efficacy": "清热凉血，散瘀止痛",
+    "usage_dosage": "煎服，6-12g。外用适量",
+    "contraindications": "不宜与藜芦同用。血寒经闭者不宜用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "紫草",
+    "nature_flavor": "甘、咸，寒",
+    "meridian_tropism": "心、肝经",
+    "efficacy": "清热凉血，活血解毒，透疹消斑",
+    "usage_dosage": "煎服，5-10g。外用适量，熬膏或用植物油浸泡涂擦",
+    "contraindications": "本品性寒而滑利，脾虚便溏者忌服",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "水牛角",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "心、肝经",
+    "efficacy": "清热凉血，解毒，定惊",
+    "usage_dosage": "煎服，15-30g，宜先煎3小时以上。水牛角浓缩粉，冲服，每次1.5-3g，每日2次",
+    "contraindications": "中虚胃寒者慎服。非实热证不宜用",
+    "category": "清热凉血药",
+    "property": "寒性"
+  },
+  {
+    "name": "青蒿",
+    "nature_flavor": "苦、辛，寒",
+    "meridian_tropism": "肝、胆经",
+    "efficacy": "清虚热，除骨蒸，解暑热，截疟，退黄",
+    "usage_dosage": "煎服，6-12g，后下。外用适量",
+    "contraindications": "脾胃虚弱，肠滑泄泻者忌服",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "白薇",
+    "nature_flavor": "苦、咸，寒",
+    "meridian_tropism": "胃、肝、肾经",
+    "efficacy": "清热凉血，利尿通淋，解毒疗疮",
+    "usage_dosage": "煎服，5-10g。外用适量，煎汤洗患处",
+    "contraindications": "脾胃虚寒、食少便溏者不宜服用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "地骨皮",
+    "nature_flavor": "甘，寒",
+    "meridian_tropism": "肺、肝、肾经",
+    "efficacy": "凉血除蒸，清肺降火",
+    "usage_dosage": "煎服，9-15g。外用适量",
+    "contraindications": "外感风寒发热及脾虚便溏者不宜用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "银柴胡",
+    "nature_flavor": "甘，微寒",
+    "meridian_tropism": "肝、胃经",
+    "efficacy": "清虚热，除疳热",
+    "usage_dosage": "煎服，3-10g",
+    "contraindications": "外感风寒，血虚无热者忌用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "胡黄连",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肝、胃、大肠经",
+    "efficacy": "退虚热，除疳热，清湿热",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "脾胃虚寒者慎用",
+    "category": "清虚热药",
+    "property": "寒性"
+  },
+  {
+    "name": "大黄",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "脾、胃、大肠、肝、心包经",
+    "efficacy": "泻下攻积，清热泻火，凉血解毒，逐瘀通经，利湿退黄",
+    "usage_dosage": "煎服，3-15g；用于泻下不宜久煎。外用适量，研末敷于患处",
+    "contraindications": "孕妇及月经期、哺乳期慎用。又本品苦寒，易伤胃气，脾胃虚弱者慎用",
+    "category": "攻下药",
+    "property": "寒性"
+  },
+  {
+    "name": "芒硝",
+    "nature_flavor": "咸、苦，寒",
+    "meridian_tropism": "胃、大肠经",
+    "efficacy": "泻下通便，润燥软坚，清火消肿",
+    "usage_dosage": "6-12g，一般不入煎剂，待汤剂煎得后，溶入汤液中服用。外用适量",
+    "contraindications": "孕妇慎用；不宜与硫黄、三棱同用",
+    "category": "攻下药",
+    "property": "寒性"
+  },
+  {
+    "name": "番泻叶",
+    "nature_flavor": "甘、苦，寒",
+    "meridian_tropism": "大肠经",
+    "efficacy": "泻热行滞，通便，利水",
+    "usage_dosage": "煎服，2-6g，后下，或开水泡服。外用适量",
+    "contraindications": "孕妇慎用，哺乳期、月经期及体虚者忌用",
+    "category": "攻下药",
+    "property": "寒性"
+  },
+  {
+    "name": "芦荟",
+    "nature_flavor": "苦，寒",
+    "meridian_tropism": "肝、胃、大肠经",
+    "efficacy": "泻下通便，清肝泻火，杀虫疗疳",
+    "usage_dosage": "入丸散服，每次1-2g；外用适量，研末敷患处",
+    "contraindications": "孕妇慎用。脾胃虚寒，食少便溏及孕妇忌用",
+    "category": "攻下药",
+    "property": "寒性"
+  },
+  {
+    "name": "火麻仁",
+    "nature_flavor": "甘，平",
+    "meridian_tropism": "脾、胃、大肠经",
+    "efficacy": "润肠通便",
+    "usage_dosage": "煎服，10-15g，打碎入煎",
+    "contraindications": "脾虚便溏者忌用",
+    "category": "润下药",
+    "property": "平性"
+  },
+  {
+    "name": "郁李仁",
+    "nature_flavor": "辛、苦、甘，平",
+    "meridian_tropism": "脾、大肠、小肠经",
+    "efficacy": "润肠通便，下气利水",
+    "usage_dosage": "煎服，6-10g，打碎入煎",
+    "contraindications": "孕妇慎用，脾虚泄泻者慎用",
+    "category": "润下药",
+    "property": "平性"
+  },
+  {
+    "name": "松子仁",
+    "nature_flavor": "甘，温",
+    "meridian_tropism": "肺、肝、大肠经",
+    "efficacy": "润燥滑肠，润肺止咳",
+    "usage_dosage": "煎服，5-10g。或入膏、丸",
+    "contraindications": "脾虚便溏、湿痰者禁用",
+    "category": "润下药",
+    "property": "温性"
+  },
+  {
+    "name": "甘遂",
+    "nature_flavor": "苦，寒；有毒",
+    "meridian_tropism": "肺、肾、大肠经",
+    "efficacy": "泻水逐饮，消肿散结",
+    "usage_dosage": "入丸散服，每次0.5-1.5g。外用适量，生用。内服醋炙用，以减低毒性",
+    "contraindications": "孕妇禁用，不宜与甘草同用",
+    "category": "峻下逐水药",
+    "property": "寒性"
+  },
+  {
+    "name": "京大戟",
+    "nature_flavor": "苦，寒；有毒",
+    "meridian_tropism": "肺、脾、肾经",
+    "efficacy": "泻水逐饮，消肿散结",
+    "usage_dosage": "煎服，1.5-3g；入丸散服，每次1g。外用适量，生用。内服醋炙用，以减低毒性",
+    "contraindications": "孕妇禁用，不宜与甘草同用",
+    "category": "峻下逐水药",
+    "property": "寒性"
+  },
+  {
+    "name": "芫花",
+    "nature_flavor": "苦、辛，温；有毒",
+    "meridian_tropism": "肺、脾、肾经",
+    "efficacy": "泻水逐饮，祛痰止咳；外用杀虫疗疮",
+    "usage_dosage": "煎服，1.5-3g；入散剂服，每次0.6g。外用适量。内服醋炙用，以减低毒性",
+    "contraindications": "孕妇禁用，不宜与甘草同用",
+    "category": "峻下逐水药",
+    "property": "温性"
+  },
+  {
+    "name": "商陆",
+    "nature_flavor": "苦，寒；有毒",
+    "meridian_tropism": "肺、脾、肾、大肠经",
+    "efficacy": "逐水消肿，通利二便；外用解毒散结",
+    "usage_dosage": "煎服，3-9g。外用适量，煎汤熏洗",
+    "contraindications": "孕妇禁用",
+    "category": "峻下逐水药",
+    "property": "寒性"
+  },
+  {
+    "name": "巴豆",
+    "nature_flavor": "辛，热；有大毒",
+    "meridian_tropism": "胃、大肠经",
+    "efficacy": "峻下冷积，逐水退肿，豁痰利咽；外用蚀疮",
+    "usage_dosage": "入丸散服，每次0.1-0.3g。外用适量，研末涂患处，或捣烂以纱布包擦患处。大多制成巴豆霜用，以减低毒性",
+    "contraindications": "孕妇禁用，不宜与牵牛子同用。服巴豆后，不宜食热粥，饮开水等热物，以免加剧泻下。服巴豆后如泻下不止者，可用黄连、黄柏煎汤冷服，或食冷粥以缓解",
+    "category": "峻下逐水药",
+    "property": "热性"
+  },
+  {
+    "name": "独活",
+    "nature_flavor": "辛、苦，微温",
+    "meridian_tropism": "肾、膀胱经",
+    "efficacy": "祛风除湿，通痹止痛",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "阴虚血燥者慎服",
+    "category": "祛风寒湿药",
+    "property": "温性"
+  },
+  {
+    "name": "威灵仙",
+    "nature_flavor": "辛、咸，温",
+    "meridian_tropism": "膀胱经",
+    "efficacy": "祛风除湿，通络止痛",
+    "usage_dosage": "煎服，3-10g。外用适量",
+    "contraindications": "阴虚血燥者慎服",
+    "category": "祛风湿药",
+    "property": "温性"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "type": "十八反",
+    "description": "中药配伍禁忌，指某些药物合用会产生毒性反应或副作用",
+    "rules": [
+      {
+        "herb1": "甘草",
+        "herb2": "甘遂",
+        "contraindication_type": "十八反",
+        "description": "甘草反甘遂，合用可能引起毒副作用",
+        "severity": "高",
+        "mechanism": "甘草中的甘草酸可能与甘遂中的成分产生毒性反应"
+      },
+      {
+        "herb1": "甘草",
+        "herb2": "大戟",
+        "contraindication_type": "十八反",
+        "description": "甘草反大戟，合用可能引起毒副作用",
+        "severity": "高",
+        "mechanism": "甘草与大戟合用可能增强毒性"
+      },
+      {
+        "herb1": "甘草",
+        "herb2": "芫花",
+        "contraindication_type": "十八反",
+        "description": "甘草反芫花，合用可能引起毒副作用",
+        "severity": "高",
+        "mechanism": "甘草与芫花合用可能产生毒性物质"
+      },
+      {
+        "herb1": "甘草",
+        "herb2": "海藻",
+        "contraindication_type": "十八反",
+        "description": "甘草反海藻，合用可能引起毒副作用",
+        "severity": "高",
+        "mechanism": "甘草与海藻合用可能影响药效或产生副作用"
+      },
+      {
+        "herb1": "乌头",
+        "herb2": "贝母",
+        "contraindication_type": "十八反",
+        "description": "乌头反贝母，合用可能增强毒性",
+        "severity": "极高",
+        "mechanism": "乌头毒性可能因贝母而增强"
+      },
+      {
+        "herb1": "乌头",
+        "herb2": "瓜蒌",
+        "contraindication_type": "十八反",
+        "description": "乌头反瓜蒌，合用可能增强毒性",
+        "severity": "极高",
+        "mechanism": "乌头与瓜蒌合用可能产生严重毒性反应"
+      },
+      {
+        "herb1": "乌头",
+        "herb2": "半夏",
+        "contraindication_type": "十八反",
+        "description": "乌头反半夏，合用可能增强毒性",
+        "severity": "极高",
+        "mechanism": "乌头毒性可能因半夏而增强"
+      },
+      {
+        "herb1": "乌头",
+        "herb2": "白蔹",
+        "contraindication_type": "十八反",
+        "description": "乌头反白蔹，合用可能增强毒性",
+        "severity": "极高",
+        "mechanism": "乌头与白蔹合用可能产生毒性反应"
+      },
+      {
+        "herb1": "乌头",
+        "herb2": "白及",
+        "contraindication_type": "十八反",
+        "description": "乌头反白及，合用可能增强毒性",
+        "severity": "极高",
+        "mechanism": "乌头毒性可能因白及而增强"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "细辛",
+        "contraindication_type": "十八反",
+        "description": "藜芦反细辛，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与细辛合用可能产生毒性物质"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "芍药",
+        "contraindication_type": "十八反",
+        "description": "藜芦反芍药，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与芍药合用可能影响药效或产生毒性"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "人参",
+        "contraindication_type": "十八反",
+        "description": "藜芦反人参，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与人参合用可能产生毒性反应"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "丹参",
+        "contraindication_type": "十八反",
+        "description": "藜芦反丹参，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与丹参合用可能产生毒性物质"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "玄参",
+        "contraindication_type": "十八反",
+        "description": "藜芦反玄参，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与玄参合用可能产生毒性反应"
+      },
+      {
+        "herb1": "藜芦",
+        "herb2": "沙参",
+        "contraindication_type": "十八反",
+        "description": "藜芦反沙参，合用可能产生毒性",
+        "severity": "高",
+        "mechanism": "藜芦与沙参合用可能产生毒性物质"
+      }
+    ]
+  },
+  {
+    "type": "十九畏",
+    "description": "中药配伍禁忌，指某些药物合用会降低药效或产生不良反应",
+    "rules": [
+      {
+        "herb1": "硫磺",
+        "herb2": "朴硝",
+        "contraindication_type": "十九畏",
+        "description": "硫磺畏朴硝，合用可能降低药效或产生不良反应",
+        "severity": "中",
+        "mechanism": "硫磺与朴硝合用可能产生化学反应，影响药效"
+      },
+      {
+        "herb1": "水银",
+        "herb2": "砒霜",
+        "contraindication_type": "十九畏",
+        "description": "水银畏砒霜，两者合用毒性极强",
+        "severity": "极高",
+        "mechanism": "水银与砒霜合用会产生剧毒物质"
+      },
+      {
+        "herb1": "狼毒",
+        "herb2": "密陀僧",
+        "contraindication_type": "十九畏",
+        "description": "狼毒畏密陀僧，合用可能增强毒性",
+        "severity": "高",
+        "mechanism": "狼毒与密陀僧合用可能产生毒性反应"
+      },
+      {
+        "herb1": "巴豆",
+        "herb2": "牵牛",
+        "contraindication_type": "十九畏",
+        "description": "巴豆畏牵牛，合用可能增强泻下作用，导致腹泻",
+        "severity": "高",
+        "mechanism": "巴豆与牵牛合用可能过度刺激肠道"
+      },
+      {
+        "herb1": "丁香",
+        "herb2": "郁金",
+        "contraindication_type": "十九畏",
+        "description": "丁香畏郁金，合用可能降低药效",
+        "severity": "中",
+        "mechanism": "丁香与郁金合用可能产生拮抗作用"
+      },
+      {
+        "herb1": "牙硝",
+        "herb2": "三棱",
+        "contraindication_type": "十九畏",
+        "description": "牙硝畏三棱，合用可能产生不良反应",
+        "severity": "中",
+        "mechanism": "牙硝与三棱合用可能影响药效"
+      },
+      {
+        "herb1": "川乌",
+        "herb2": "犀角",
+        "contraindication_type": "十九畏",
+        "description": "川乌畏犀角，合用可能降低药效或产生不良反应",
+        "severity": "高",
+        "mechanism": "川乌与犀角合用可能产生拮抗作用"
+      },
+      {
+        "herb1": "人参",
+        "herb2": "五灵脂",
+        "contraindication_type": "十九畏",
+        "description": "人参畏五灵脂，合用可能降低人参药效",
+        "severity": "中",
+        "mechanism": "人参与五灵脂合用可能产生拮抗作用"
+      },
+      {
+        "herb1": "肉桂",
+        "herb2": "赤石脂",
+        "contraindication_type": "十九畏",
+        "description": "肉桂畏赤石脂，合用可能降低肉桂药效",
+        "severity": "中",
+        "mechanism": "肉桂与赤石脂合用可能影响药效吸收"
+      },
+      {
+        "herb1": "官桂",
+        "herb2": "赤石脂",
+        "contraindication_type": "十九畏",
+        "description": "官桂畏赤石脂，合用可能降低官桂药效",
+        "severity": "中",
+        "mechanism": "官桂与赤石脂合用可能影响药效"
+      }
+    ]
+  },
+  {
+    "type": "妊娠禁忌",
+    "description": "孕妇禁用的中药，可能导致流产或胎儿畸形",
+    "rules": [
+      {
+        "herb1": "巴豆",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "巴豆性烈，孕妇禁用，可能导致流产",
+        "severity": "极高",
+        "mechanism": "巴豆强烈刺激子宫，可能引起流产"
+      },
+      {
+        "herb1": "大黄",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "大黄泻下力强，孕妇慎用",
+        "severity": "高",
+        "mechanism": "大黄可能刺激子宫，引起子宫收缩"
+      },
+      {
+        "herb1": "芒硝",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "芒硝泻下力强，孕妇慎用",
+        "severity": "高",
+        "mechanism": "芒硝可能刺激子宫，引起子宫收缩"
+      },
+      {
+        "herb1": "桃仁",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "桃仁活血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "桃仁活血化瘀，可能引起流产"
+      },
+      {
+        "herb1": "红花",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "红花活血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "红花活血化瘀，可能引起流产"
+      },
+      {
+        "herb1": "三棱",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "三棱破血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "三棱破血行气，可能引起流产"
+      },
+      {
+        "herb1": "莪术",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "莪术破血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "莪术破血行气，可能引起流产"
+      },
+      {
+        "herb1": "水蛭",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "水蛭破血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "水蛭破血逐瘀，可能引起流产"
+      },
+      {
+        "herb1": "虻虫",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "虻虫破血力强，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "虻虫破血逐瘀，可能引起流产"
+      },
+      {
+        "herb1": "麝香",
+        "herb2": "孕妇",
+        "contraindication_type": "妊娠禁忌",
+        "description": "麝香芳香走窜，孕妇禁用",
+        "severity": "极高",
+        "mechanism": "麝香走窜力强，可能引起流产"
+      }
+    ]
+  },
+  {
+    "type": "其他禁忌",
+    "description": "其他重要的中药配伍禁忌",
+    "rules": [
+      {
+        "herb1": "黄连",
+        "herb2": "猪肉",
+        "contraindication_type": "食物禁忌",
+        "description": "黄连忌猪肉，合用可能降低药效",
+        "severity": "中",
+        "mechanism": "猪肉可能影响黄连中有效成分的吸收"
+      },
+      {
+        "herb1": "甘草",
+        "herb2": "鲤鱼",
+        "contraindication_type": "食物禁忌",
+        "description": "甘草忌鲤鱼，合用可能产生不良反应",
+        "severity": "中",
+        "mechanism": "甘草与鲤鱼合用可能产生毒性物质"
+      },
+      {
+        "herb1": "薄荷",
+        "herb2": "鳖肉",
+        "contraindication_type": "食物禁忌",
+        "description": "薄荷忌鳖肉，合用可能降低药效",
+        "severity": "低",
+        "mechanism": "鳖肉可能影响薄荷的药效发挥"
+      },
+      {
+        "herb1": "常山",
+        "herb2": "葱",
+        "contraindication_type": "食物禁忌",
+        "description": "常山忌葱，合用可能引起呕吐",
+        "severity": "高",
+        "mechanism": "常山与葱合用可能过度刺激胃肠道"
+      },
+      {
+        "herb1": "地黄",
+        "herb2": "葱、蒜",
+        "contraindication_type": "食物禁忌",
+        "description": "地黄忌葱蒜，合用可能影响药效",
+        "severity": "中",
+        "mechanism": "葱蒜的辛散作用可能影响地黄的滋阴效果"
+      },
+      {
+        "herb1": "茯苓",
+        "herb2": "醋",
+        "contraindication_type": "食物禁忌",
+        "description": "茯苓忌醋，合用可能降低药效",
+        "severity": "中",
+        "mechanism": "醋的酸性可能影响茯苓的有效成分"
+      },
+      {
+        "herb1": "丹参",
+        "herb2": "醋",
+        "contraindication_type": "食物禁忌",
+        "description": "丹参忌醋，合用可能降低药效",
+        "severity": "中",
+        "mechanism": "醋的酸性可能影响丹参酮等有效成分"
+      }
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "合谷",
+    "meridian_name": "手阳明大肠经",
+    "location": "手背第一、二掌骨间，第二掌骨桡侧中点处",
+    "location_method": "当拇指与食指并拢时，第一、二掌骨间最高点处",
+    "indications": "头痛、牙痛、面瘫、咽喉肿痛、热病、痞满",
+    "needle_depth": "直刺0.5-1寸",
+    "manipulation": "以泻法为主，可配捻转",
+    "anatomical_landmarks": "第一、二掌骨间隙",
+    "coordinates_3d": null
+  },
+  {
+    "name": "太渊",
+    "meridian_name": "手太阴肺经",
+    "location": "腕掌侧横纹桡侧，桡动脉搏动处",
+    "location_method": "腕掌侧横纹桡侧桡动脉搏动最明显处",
+    "indications": "咳嗽、咯血、咽喉肿痛、胸闷、气短",
+    "needle_depth": "直刺0.3-0.5寸",
+    "manipulation": "平补平泻",
+    "anatomical_landmarks": "桡动脉",
+    "coordinates_3d": null
+  },
+  {
+    "name": "三阴交",
+    "meridian_name": "足太阴脾经",
+    "location": "内踝尖上3寸，胫骨内侧后缘",
+    "location_method": "自内踝尖沿胫骨内侧缘上量3寸处",
+    "indications": "月经不调、带下、腹痛、失眠、下肢痿痹",
+    "needle_depth": "直刺0.8-1.2寸",
+    "manipulation": "多取补法，孕妇慎用",
+    "anatomical_landmarks": "胫骨内侧后缘",
+    "coordinates_3d": null
+  },
+  {
+    "name": "气海",
+    "meridian_name": "任脉",
+    "location": "脐下1.5寸",
+    "location_method": "取自脐中向下1.5寸",
+    "indications": "虚劳、腹痛、泄泻、遗尿、月经不调",
+    "needle_depth": "直刺0.8-1寸",
+    "manipulation": "以补法为主，可灸",
+    "anatomical_landmarks": "脐下线",
+    "coordinates_3d": null
+  }
+]
