@@ -5,7 +5,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
   plugins: [react(), tsconfigPaths()],
-  base: '/',
+  base: '/zhong-yi/',
   build: {
     outDir: 'dist',
     sourcemap: true,
